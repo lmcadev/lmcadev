@@ -40,9 +40,9 @@
   Sistema que nombra y genera enlaces de archivos DXF/CDR/AI almacenados en Google Drive.  
   🔗 [En desarrollo]
 
-- **Simulador procesador de 16 bits en Logisim**  
-  Diseño modular con arquitectura multiciclo, FSM, y visualización de Fibonacci en hardware simulado.  
-  🔗 [Ver diseño]
+- **MenuGram**  
+  aplicación moderna para la gestión de pedidos en restaurantes. Permite a los clientes explorar el menú digital, realizar órdenes en tiempo real y mejorar la eficiencia del servicio.  
+  🔗 [Repositorio GitHub](https://github.com/lmcadev/menuGram)
 
 ---
 
