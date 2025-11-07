@@ -1,6 +1,6 @@
 # 👋 Hola, soy Luis Miguel Castañeda
 
-**Desarrollador Backend con enfoque en Java, Node.js y soluciones empresariales.**
+**Desarrollador Fullstack con enfoque en Java, Node.js, Angular y soluciones empresariales.**
 
 🎯 Apasionado por la integración de hardware-software, arquitectura de microservicios, desarrollo de APIs REST y despliegue en la nube con tecnologías como Docker, AWS y Spring Boot. También combino esta experiencia con proyectos de I+D en el sector industrial.
 
