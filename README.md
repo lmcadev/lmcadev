@@ -2,7 +2,7 @@
 
 **Desarrollador Fullstack con enfoque en Java, Node.js, Angular y soluciones empresariales.**
 
-🎯 Apasionado por la integración de hardware-software, arquitectura de microservicios, desarrollo de APIs REST y despliegue en la nube con tecnologías como Docker, AWS y Spring Boot. También combino esta experiencia con proyectos de I+D en el sector industrial.
+Apasionado por la integración de hardware-software, arquitectura de microservicios, desarrollo de APIs REST y despliegue en la nube con tecnologías como Docker, AWS y Spring Boot. También combino esta experiencia con proyectos de I+D en el sector industrial.
 
 📍 Armenia, Quindío — Colombia  
 📧 lmcadev@gmail.com  
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Lenguajes y frameworks**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,11 +30,11 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 - **ProducApp**  
   Arquitectura SOA con Spring Boot, JWT, Eureka, Spring Cloud Gateway, RabbitMQ y PostgreSQL. Despliegue con Docker.  
-  🔗 [Repositorio GitHub](https://github.com/lmcadev-productApp/ProducApp)
+
 
 - **App Web Nomenclatura automática (Spring Boot + Angular)**  
   Sistema que nombra y genera enlaces de archivos DXF/CDR/AI almacenados en Google Drive.  
@@ -42,11 +42,11 @@
 
 - **MenuGram**  
   aplicación moderna para la gestión de pedidos en restaurantes. Permite a los clientes explorar el menú digital, realizar órdenes en tiempo real y mejorar la eficiencia del servicio.  
-  🔗 [Repositorio GitHub](https://github.com/lmcadev/menuGram)
+
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=lmcadev&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=lmcadev&theme=dark&hide_border=false)
@@ -54,7 +54,7 @@
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 📧 lmcadev@gmail.com  
 📍 Armenia, Quindío, Colombia   
